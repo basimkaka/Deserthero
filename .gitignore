@@ -1,0 +1,50 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+venv/
+ENV/
+env/
+*.env
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Python egg and distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Coverage reports and tests
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+
+# Pytest cache
+.cache/
+
+# PyCharm specific files
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pygame-specific artifacts
+*.log
+
+# Additional configuration or environment files (optional)
+.env
+*.env
