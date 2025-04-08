@@ -64,4 +64,4 @@
 
 ## Credits:
 
-- Created by: [basimkaka]
+- Created by basimkaka
